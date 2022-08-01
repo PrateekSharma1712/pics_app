@@ -4,11 +4,11 @@
 
 This app uses the following Dart and Flutter version - `flutter --version`:
 
+```sh
 Flutter 3.0.5 • channel stable • <https://github.com/flutter/flutter.git>
-
 Framework • revision f1875d570e (2 weeks ago) • 2022-07-13 11:24:16 -0700 Engine • revision
-
 e85ea0e79c Tools • Dart 2.17.6 • DevTools 2.12.2
+```
 
 ## How to run
 
